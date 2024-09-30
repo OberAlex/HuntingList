@@ -1,0 +1,18 @@
+# Buffalo Domains
+ubuffalo.brightspace.com
+buffalo.edu
+listserv.buffalo.edu
+
+# Company Domains
+nytimes.com
+linkedin.com
+amazon.com
+mail.joinhandshake.com
+r.groupon.com
+emails.macys.com
+email.oldnavy.com
+emdeals.michaels.com
+robinhood.com
+contact.kamalaharris.com
+email.bestbuy.com
+members.wayfair.com
