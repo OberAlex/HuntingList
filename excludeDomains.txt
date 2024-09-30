@@ -1,18 +1,38 @@
-# Buffalo Domains
+---  Buffalo Domains  ---
 ubuffalo.brightspace.com
 buffalo.edu
 listserv.buffalo.edu
-
-# Company Domains
+ubuffalo.onmicrosoft.com
+---  News Domains  ---
 nytimes.com
+interactive.wsj.com
+mail.buffalonews.com
+washingtonpost.com
+---  Job Domains  ---
 linkedin.com
-amazon.com
 mail.joinhandshake.com
-r.groupon.com
+notifications.joinhandshake.com
+---  Retail Domains  ---
 emails.macys.com
 email.oldnavy.com
+amazon.com
+r.groupon.com
 emdeals.michaels.com
 robinhood.com
-contact.kamalaharris.com
 email.bestbuy.com
 members.wayfair.com
+eml.nflshop.com
+e2.vspink.com
+e.buffalobills.com
+em.target.com
+e1.victoriassecret.com
+e2.bathandbodyworks.com
+promo.childrensplace.com
+a.grubhub.com
+---  Account Domains  ---
+account.fanduel.com
+---  Misc Domains  ---
+contact.kamalaharris.com
+em.dowjones.com
+uupmail.org
+email.informeddelivery.usps.com
