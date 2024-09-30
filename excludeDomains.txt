@@ -16,6 +16,7 @@ alerts.buffalonews.com
 linkedin.com
 mail.joinhandshake.com
 notifications.joinhandshake.com
+careereco.com
 ---  Retail Domains  ---
 emails.macys.com
 email.oldnavy.com
@@ -61,6 +62,14 @@ services.discover.com
 mail.levi.com
 auth.draftkings.com
 e.ulta.com
+em.efollett.com
+microsoft.com
+e.loft.com
+usmail.shein.com
+e.dcsg.com
+iluv.southwest.com
+e.fossil.com
+email.crowdconnect-tickets.com
 ---  Account Domains  ---
 account.fanduel.com
 ---  Misc Domains  ---
@@ -75,3 +84,13 @@ box.com
 info@communications.pharmacist.com
 panopto.com
 instructure.com
+sbw@80-20.org
+rs.email.nextdoor.com
+piazza.com
+engage.mail.campuslabs.com
+viewfindersurveys.com
+smartevals.com
+get.cbord.com
+relay.engage.campuslabs.com
+zoom.com
+email.hrtrainonline.com
