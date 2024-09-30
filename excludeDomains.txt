@@ -3,6 +3,9 @@ ubuffalo.brightspace.com
 buffalo.edu
 listserv.buffalo.edu
 ubuffalo.onmicrosoft.com
+success.buffalo.edu
+rfsuny.org
+devmail.buffalo.edu
 ---  News Domains  ---
 nytimes.com
 interactive.wsj.com
@@ -29,10 +32,36 @@ e1.victoriassecret.com
 e2.bathandbodyworks.com
 promo.childrensplace.com
 a.grubhub.com
+email.hm.com
+d.email.draftkings.com
+venmo.com
+em.officedepot.com
+b.express.com
+email.gap.com
+ebay.com
+poshmark.com
+mail.stubhub.com
+s.kohls.com
+uber.com
+news.saks.com
+fashionnova.com
+eml.walgreens.com
+email.gapfactory.com
+email.bananarepublicfactory.com
+em.shutterfly.com
+email.jcpenney.com
+email.wearfigs.com
+em.joann.com
+chase.com
+paypal.com
 ---  Account Domains  ---
 account.fanduel.com
 ---  Misc Domains  ---
 contact.kamalaharris.com
+win.donaldjtrump.com
 em.dowjones.com
 uupmail.org
 email.informeddelivery.usps.com
+facebookmail.com
+email.teams.microsoft.com
+box.com
