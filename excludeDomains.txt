@@ -11,6 +11,7 @@ nytimes.com
 interactive.wsj.com
 mail.buffalonews.com
 washingtonpost.com
+alerts.buffalonews.com
 ---  Job Domains  ---
 linkedin.com
 mail.joinhandshake.com
@@ -54,6 +55,12 @@ email.wearfigs.com
 em.joann.com
 chase.com
 paypal.com
+em.dsw.com
+promotion.overstock.com
+services.discover.com
+mail.levi.com
+auth.draftkings.com
+e.ulta.com
 ---  Account Domains  ---
 account.fanduel.com
 ---  Misc Domains  ---
@@ -65,3 +72,6 @@ email.informeddelivery.usps.com
 facebookmail.com
 email.teams.microsoft.com
 box.com
+info@communications.pharmacist.com
+panopto.com
+instructure.com
